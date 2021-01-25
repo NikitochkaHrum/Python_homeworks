@@ -11,3 +11,5 @@ first task counted fibonacci numbers with magic help of itheratots
 second checked string-palindrom
 third used decorators with free-signature functions
 fourth just killed the matrix (._.))))
+
+added old homework (copying and editing images)
