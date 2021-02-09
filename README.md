@@ -15,3 +15,5 @@ fourth just killed the matrix (._.))))
 added old homework (copying and editing images)
 
 UPD 29.01 added homework about naumpy and batching data
+
+UPD 09.02 data cleansing
