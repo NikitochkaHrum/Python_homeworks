@@ -17,3 +17,5 @@ added old homework (copying and editing images)
 UPD 29.01 added homework about naumpy and batching data
 
 UPD 09.02 data cleansing
+
+UPD 17.02 statistical graphs - spotify dataset dependences
