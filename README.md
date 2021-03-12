@@ -21,3 +21,5 @@ UPD 09.02 data cleansing
 UPD 17.02 statistical graphs - spotify dataset dependences
 
 UPD 23.02 model which detects anime lovers
+
+UPD 12.03 model that detects sarcasm in reddit comments (._.)
