@@ -23,3 +23,5 @@ UPD 17.02 statistical graphs - spotify dataset dependences
 UPD 23.02 model which detects anime lovers
 
 UPD 12.03 model which detects sarcasm in reddit comments (._.)
+
+UPD 10.05 PCA algorithm
