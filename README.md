@@ -25,3 +25,5 @@ UPD 23.02 model which detects anime lovers
 UPD 12.03 model which detects sarcasm in reddit comments (._.)
 
 UPD 10.05 PCA algorithm
+
+UPD 26.05 Titanic dataset solved (0.507 acceracy on Kaggle, ha-ha) with simple neural network
